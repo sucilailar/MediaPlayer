@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="song_name">Age of Style</string>
+    <string name="artist">Artist</string>
+</resources>
